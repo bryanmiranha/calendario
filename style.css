@@ -1,1 +1,8 @@
-
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Madimi One", sans-serif;
+    margin: auto;
+    font-size: normal;
+    background-color: dimgray;
+}
