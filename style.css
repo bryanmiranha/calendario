@@ -4,6 +4,15 @@
     padding: 0px;
     font-family: "Madimi One", sans-serif;
     margin: auto;
-    font-size: normal;
+    font-style: normal;
     background-color: dimgray;
+}
+
+h1{
+    font-size: 5vmax;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
 }
