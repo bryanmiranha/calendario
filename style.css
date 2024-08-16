@@ -21,3 +21,66 @@ h1{
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
 }
+
+.meses{
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 0px 2px black;
+}
+
+.mes-jan{
+    background-color: blanchedalmond;
+}
+
+.mes-fev{
+    background-color: azure;
+}
+
+.mes-mar{
+    background-color: beige;
+}
+
+.mes-abr{
+    background-color: brown;
+}
+
+.mes-mai{
+    background-color: darkorange;
+}
+
+.mes-jun{
+    background-color: aliceblue;
+}
+
+.mes-jul{
+    background-color: crimson;
+}
+
+.mes-ago{
+    background-color: blue;
+}
+
+.mes-set{
+    background-color: forestgreen;
+}
+
+.mes-out{
+    background-color: cornflowerblue;
+}
+
+.mes-nov{
+    background-color: plum;
+}
+
+.mes-dez{
+    background-color: sienna;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: pink;
+}
